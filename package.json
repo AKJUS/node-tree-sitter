@@ -64,7 +64,7 @@
     "tree-sitter-rust": "^0.23.2",
     "typedoc": "^0.27.6",
     "typedoc-plugin-rename-defaults": "^0.7.2",
-    "typescript": "^5.7.2"
+    "typescript": "^5.7.3"
   },
   "scripts": {
     "docs": "typedoc --out docs/api tree-sitter.d.ts --readme README.md",
