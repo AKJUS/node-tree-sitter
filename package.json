@@ -62,7 +62,7 @@
     "tree-sitter-python": "^0.23.6",
     "tree-sitter-ruby": "^0.23.1",
     "tree-sitter-rust": "^0.23.2",
-    "typedoc": "^0.27.6",
+    "typedoc": "^0.28.1",
     "typedoc-plugin-rename-defaults": "^0.7.2",
     "typescript": "^5.7.2"
   },
